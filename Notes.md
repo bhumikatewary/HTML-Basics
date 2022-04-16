@@ -1,0 +1,11 @@
+### Sites you can refer to while studying the basics of web-development
+
+1. [w3schools](https://www.w3schools.com/whatis/)
+2. [mdn docs](https://developer.mozilla.org/en-US/docs/Learn)
+
+### Best sites to add free stickers or icons in your html file:
+
+1. [Unicons](https://iconscout.com/unicons?gclid=Cj0KCQjw0umSBhDrARIsAH7FCoea4sgM3h5r6P6UreNEGvLRh1cMauxAdBY6YebfhPfYn8hxJiCh0IsaAvSyEALw_wcB)
+2. [Flaticon](https://www.flaticon.com/)
+3. [IconFinder](https://www.iconfinder.com/free_icons)
+
