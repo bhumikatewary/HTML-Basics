@@ -12,5 +12,5 @@
 ### Best sites from which you can learn Frontend Development:
 
 1. [Course 1](https://www.youtube.com/watch?v=QA0XpGhiz5w)
-2. 
+2. [Course 2](https://www.youtube.com/watch?v=Q8NPQ2RgWyg)
 
