@@ -9,3 +9,8 @@
 2. [Flaticon](https://www.flaticon.com/)
 3. [IconFinder](https://www.iconfinder.com/free_icons)
 
+### Best sites from which you can learn Frontend Development:
+
+1. [Video 1](https://www.youtube.com/watch?v=QA0XpGhiz5w)
+2. 
+
